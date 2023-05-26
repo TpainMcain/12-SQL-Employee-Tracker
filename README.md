@@ -22,7 +22,7 @@ Employee Tracker is a CLI application for managing a company's employee database
 6. Rename the ```.env.example``` file in the project's root directory to ```.env```
 7. Open the ```.env``` file and provide the necessary values for the environment variables.
     * Note: The ```.env.example``` file serves as a template for the required environment variables. Replace the placeholder values with the actual values relevant to your MySQL.
-8. Save the changes to the .env file.
+8. Save the changes to the ```.env``` file.
 
 ## Usage Instructions
 * Once all the dependencies have been installed, you can run the application with ```node index.js```  
