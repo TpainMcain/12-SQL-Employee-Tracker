@@ -21,7 +21,8 @@ Employee Tracker is a CLI application for managing a company's employee database
 5. Log in to MySQL (mysql -u root -p) and run source db/db.sql and source db/schema.sql and source db/seeds.sql to create and populate the database.
 
 ## Usage Instructions
-
+* Once all the dependencies have been installed, you can run the application with: ```node server.js```  
+* Use the command line interface to manage your employees, roles and departments.
 ### Video Walkthrough
     
 ## License
