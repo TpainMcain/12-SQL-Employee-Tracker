@@ -15,7 +15,7 @@ Employee Tracker is a CLI application for managing a company's employee database
 ## Installation Instructions
 1. Clone the repository to your local development environment.
     * ```git clone https://github.com/TpainMcain/12-SQL-Employee-Tracker.git```
-2. Navigate to the 12-SQL-Employee-Tracker folder using the command prompt.
+2. Navigate to the ```12-SQL-Employee-Tracker``` folder using the command prompt.
 3. Run npm install to install all dependencies.
 4. Make sure MySQL server is running on your machine.
 5. Log in to MySQL (mysql -u root -p) and run ```source db/db.sql``` and ```source db/schema.sql``` and ```source db/seeds.sql``` to create and populate the database.
