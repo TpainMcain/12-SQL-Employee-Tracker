@@ -34,7 +34,7 @@ Permission to use this application is granted under the MIT license.
 Click on the link for more information: [MIT License Information](https://opensource.org/licenses/MIT)
   
 ## Credits
-
+https://github.com/jgarcia45/employee-tracker
 
 ## Contact Me
 GitHub Link: (https://github.com/TpainMcain)<br>
