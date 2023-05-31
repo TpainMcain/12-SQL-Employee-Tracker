@@ -29,7 +29,8 @@ Employee Tracker is a CLI application for managing a company's employee database
 * Once all the dependencies have been installed, you can run the application with ```node index.js```  
 * Use the command line interface to manage your employees, roles and departments.
 ### Video Walkthrough
-    
+https://drive.google.com/file/d/16FhgwM72js_Hl-b2mINZ3KZbX0i_qk4Q/view
+
 ## License
 Permission to use this application is granted under the MIT license.
 Click on the link for more information: [MIT License Information](https://opensource.org/licenses/MIT)
