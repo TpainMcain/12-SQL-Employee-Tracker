@@ -2,6 +2,18 @@
 const inquirer = require('inquirer');
 const db = require('./config/connection');
 
+// Validate user input function
+function validateInput(errorMessage) {
+    return input => {
+        if (input) {
+            return true;
+        } else {
+            console.log(errorMessage);
+            return false;
+        }
+    };
+}
+
 // Start the server after connecting to the DB
 db.connect(err => {
     if (err) throw err;
